@@ -1,1 +1,1 @@
-# skincancer-classification-heroku
+# skincancer-classification-Lesion
